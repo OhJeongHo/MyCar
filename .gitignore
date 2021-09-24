@@ -1,0 +1,13 @@
+
+Mycar/.vs/
+Mycar/Library/
+Mycar/obj/
+Mycar/Logs/
+Mycar/Temp/
+Mycar/UserSettings/
+Mycar/Assets/09.Resources
+Mycar/Assets/Triple_Shader
+Mycar/.vsconfig
+Mycar/*.csproj
+Mycar/*.sln
+
